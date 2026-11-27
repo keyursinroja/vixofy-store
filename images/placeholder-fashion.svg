@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Fashion item placeholder illustration">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef2e8"/><stop offset="1" stop-color="#dce8d2"/></linearGradient></defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <circle cx="695" cy="210" r="180" fill="#c6de7c" opacity=".52"/>
+  <path d="M317 320 418 275h64l101 45 112 118-88 90-72-67v365H365V461l-72 67-88-90z" fill="#111"/>
+  <path d="M418 275q32 104 64 0" fill="none" stroke="#f6f7f3" stroke-width="15"/>
+  <path d="M450 279v509" stroke="#c6de7c" stroke-width="5" opacity=".8"/>
+  <text x="450" y="950" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" letter-spacing="8" fill="#222">VIXOFY STUDIO</text>
+  <text x="450" y="995" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="4" fill="#555">PRODUCT PHOTO PLACEHOLDER</text>
+</svg>
